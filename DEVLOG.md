@@ -1,17 +1,16 @@
 # Dev Log:
 
-## Player 1
+## Mikayla Lin
 
-### 2024-01-02 - Brief description
-Expanded description including how much time was spent on task.
+### 2024-01-03 - Project Proposal
 
-### 2024-01-03 - Brief description
-Expanded description including how much time was spent on task.
+### 2024-01-04 - 
 
-## Player 2
 
-### 2024-01-02 - Brief description
-Expanded description including how much time was spent on task.
+## Andrew Li
 
-### 2024-01-03 - Brief description
-Expanded description including how much time was spent on task.
+### 2024-01-03 - Project Proposal
+Discussed and agreed on a project proposal: Guess The Song (approved).
+
+### 2024-01-04 - Research
+Looked up possible C Sound libraries and stumbled upon [this list](https://www.reddit.com/r/gamedev/comments/4wlp2n/whats_the_best_crossplatform_audio_lib_these_days/).
