@@ -7,7 +7,7 @@ Mikayla Lin, Andrew Li
        
 ### Project Description:
 
-Explain what is this project.
+This is an imitation of the Discord game Guess The Song. Multiple students will be able to connect to a server. Then, the same random song will play on all of the computers. The first player to get the artist and the first player to get the song title receive points. 
   
 ### Instructions:
 
